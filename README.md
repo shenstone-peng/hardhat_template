@@ -9,8 +9,11 @@ command: `npm install --save-dev @nomiclabs/hardhat-waffle ethereum-waffle chai 
 ## 1.3 install [hardhat-etherscan](https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html)
 command: `npm install --save-dev @nomiclabs/hardhat-etherscan`
 
+## 1.4 install dotenv
+command: `npm install dotenv`
 
-
+## 1.5 install [openzeppenlin contract library](https://docs.openzeppelin.com/contracts/4.x/)
+command: `npm install @openzeppelin/contracts`
 ---
 
 # 2. start the hardhat projecet
